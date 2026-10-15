@@ -1,0 +1,15 @@
+{
+  "html_pages": 13,
+  "requested_pages": 12,
+  "status": "passed",
+  "errors": [],
+  "checks": [
+    "Internal links and asset paths",
+    "Single H1 and title per page",
+    "Meta description per page",
+    "Alt text on images",
+    "No collecting form action",
+    "No client persistence or network submission",
+    "Preview noindex on all pages"
+  ]
+}

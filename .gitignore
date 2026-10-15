@@ -1,0 +1,6 @@
+review/*.png
+review/*.pdf
+*.zip
+__pycache__/
+.vercel/
+.openai/

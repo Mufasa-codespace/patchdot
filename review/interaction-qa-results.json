@@ -1,0 +1,131 @@
+{
+  "engine": "Custom DOM harness; not a browser or JSDOM",
+  "passed": 31,
+  "total": 31,
+  "results": [
+    {
+      "name": "Initialize 404.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize request-a-quote/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize contact/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize about/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize how-it-works/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize patches/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize faq/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize patches/woven/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize patches/pvc/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize patches/chenille/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize patches/embroidered/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Initialize patches/leather/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Navigation open, outside close, Escape restores focus, responsive close",
+      "status": "pass"
+    },
+    {
+      "name": "Material tab click and keyboard index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Material tab click and keyboard patches/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "All application choices update recommendation and URL",
+      "status": "pass"
+    },
+    {
+      "name": "FAQ filters update visibility and live count",
+      "status": "pass"
+    },
+    {
+      "name": "Quote missing material error and selection resumes",
+      "status": "pass"
+    },
+    {
+      "name": "Quote full local brief embroidered",
+      "status": "pass"
+    },
+    {
+      "name": "Quote full local brief woven",
+      "status": "pass"
+    },
+    {
+      "name": "Quote full local brief pvc",
+      "status": "pass"
+    },
+    {
+      "name": "Quote full local brief chenille",
+      "status": "pass"
+    },
+    {
+      "name": "Quote full local brief leather",
+      "status": "pass"
+    },
+    {
+      "name": "Quote invalid query parameters are not accepted",
+      "status": "pass"
+    },
+    {
+      "name": "Quote number constraints and error recovery",
+      "status": "pass"
+    },
+    {
+      "name": "Quote submit advances only current valid step",
+      "status": "pass"
+    },
+    {
+      "name": "Quote reduced motion uses auto scroll",
+      "status": "pass"
+    },
+    {
+      "name": "Contact empty error, text-safe local preview, edit clears preview",
+      "status": "pass"
+    },
+    {
+      "name": "Actual sweatshirt selector index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Actual sweatshirt selector about/index.html",
+      "status": "pass"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "route": "/",
+    "title": "PATCHSMITH \u2014 Make your brand felt.",
+    "description": "Explore five custom patch styles, compare materials and build a project brief. Made in Pakistan for brands worldwide."
+  },
+  {
+    "route": "/patches/",
+    "title": "Find your feel \u2014 PATCHSMITH patches",
+    "description": "Compare embroidered, woven, PVC, chenille and leather patch styles."
+  },
+  {
+    "route": "/patches/embroidered/",
+    "title": "Embroidered patches \u2014 PATCHSMITH",
+    "description": "Give your design a stitched finish with visible thread texture. Explore embroidered patches for your brand, team or business."
+  },
+  {
+    "route": "/patches/woven/",
+    "title": "Woven patches \u2014 PATCHSMITH",
+    "description": "Explore a flatter woven finish for your custom patch design. Start with your artwork and the finished size you have in mind."
+  },
+  {
+    "route": "/patches/pvc/",
+    "title": "PVC patches \u2014 PATCHSMITH",
+    "description": "Explore molded PVC patches with a dimensional look. Start with your design, size and intended use."
+  },
+  {
+    "route": "/patches/chenille/",
+    "title": "Chenille patches \u2014 PATCHSMITH",
+    "description": "Explore the soft, textured look of chenille for bold lettering and patch designs. Start with your idea and the item it will be used on."
+  },
+  {
+    "route": "/patches/leather/",
+    "title": "Leather patches \u2014 PATCHSMITH",
+    "description": "Explore leather patches for branded apparel and accessories. Start with your design, intended size and application."
+  },
+  {
+    "route": "/how-it-works/",
+    "title": "From idea to patch \u2014 PATCHSMITH",
+    "description": "Understand the brief, specification, approval and production stages of a custom patch project."
+  },
+  {
+    "route": "/about/",
+    "title": "The detail matters \u2014 About PATCHSMITH",
+    "description": "PATCHSMITH creates custom patches in Pakistan for brands, teams and businesses worldwide."
+  },
+  {
+    "route": "/faq/",
+    "title": "Good questions \u2014 PATCHSMITH FAQ",
+    "description": "Answers about patch materials, preparing a brief and planning a project."
+  },
+  {
+    "route": "/request-a-quote/",
+    "title": "Build your project brief \u2014 PATCHSMITH",
+    "description": "Explore material, specification and project details with a guided local brief builder. Nothing is sent from this preview."
+  },
+  {
+    "route": "/contact/",
+    "title": "Your next detail \u2014 Contact PATCHSMITH",
+    "description": "Prepare your question or start a guided PATCHSMITH project brief."
+  }
+]

@@ -1,0 +1,16 @@
+/* PATCHSMITH thread transitions. Decorative only; all page content is independent. */
+.thread-transition{position:relative;width:min(1344px,calc(100% - 96px));height:150px;margin:0 auto;pointer-events:none;contain:layout style;overflow:hidden}
+.thread-transition--tight{margin-top:-55px;margin-bottom:20px}
+.thread-transition svg{display:block;width:100%;height:100%;overflow:visible}
+.thread-transition .thread-mobile{display:none}
+.thread-transition .thread-line,.thread-transition .thread-stitches{fill:none;stroke-width:2;stroke-linecap:round;vector-effect:non-scaling-stroke}
+.thread-transition .thread-line{stroke-dasharray:1;stroke-dashoffset:0}
+.thread-transition .thread-stitches{stroke-dasharray:2 8;clip-path:inset(0 0 0 0)}
+.thread-transition.motion-ready .thread-line{stroke-dashoffset:var(--thread-dash,0)}
+.thread-transition.motion-ready .thread-stitches{clip-path:inset(0 var(--stitch-hidden,0%) 0 0)}
+.thread-transition+.process-section{padding-top:25px}
+@media(max-width:1100px){.thread-transition{width:calc(100% - 64px);height:130px}}
+@media(max-width:800px){.thread-transition{width:calc(100% - 40px);height:115px}.thread-transition--tight{margin-top:-30px;margin-bottom:12px}.thread-transition+.process-section{padding-top:20px}}
+@media(max-width:540px){.thread-transition{height:105px}.thread-transition--tight{margin-top:-20px;margin-bottom:15px}.thread-transition .thread-desktop{display:none}.thread-transition .thread-mobile{display:block}.thread-transition .thread-line,.thread-transition .thread-stitches{stroke-width:1.8}.thread-transition .thread-stitches{stroke-dasharray:2 7}.thread-transition+.process-section{padding-top:18px}}
+@media(prefers-reduced-motion:reduce){.thread-transition.motion-ready .thread-line{stroke-dashoffset:0!important}.thread-transition.motion-ready .thread-stitches{clip-path:none!important}}
+@media print{.thread-transition{display:none!important}}

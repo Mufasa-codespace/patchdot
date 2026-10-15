@@ -1,0 +1,13 @@
+PATCHSMITH REDESIGN — 15 OCTOBER 2026
+
+Existing owner-private review URL: https://patchsmith-review.bmaq12.chatgpt.site
+
+The final publication result and source commit are supplied with the delivery message. This package contains the redesigned 12-page source, 404, local fonts, approved Sunset logo assets, concept artwork, a five-material explorer, application guidance and a local-only four-step brief builder.
+
+Original source is preserved in Git at tag before-experience-redesign-20261015, commit 323d8c1.
+
+Run python build.py, python test_site.py and node review/interaction-qa.js from the package root. Serve with python -m http.server 4173 --directory dist.
+
+Read README.md and review/qa-report.json for the current boundaries. Modeled-DOM and source checks pass; actual desktop/mobile browser rendering remains blocked. No website screenshots are included or claimed. No form submissions, customer uploads, payments, orders, public access changes or external deployment permission bypasses occurred.
+
+The owner-private Sites review is independent of the requested GitHub/Vercel deployment. The separate patchdot staging source is refreshed locally only; external upload/deployment remains subject to its existing access blockers. The independent Cursor PATCHSMITH repository is untouched.

@@ -1,0 +1,53 @@
+{
+  "checked_at": "2026-10-15",
+  "status": "source_and_modeled_interaction_checks_passed; live_browser_qa_blocked",
+  "preview_url": "https://patchsmith-review.bmaq12.chatgpt.site",
+  "access": "owner-private; unchanged",
+  "pages": {
+    "requested": 12,
+    "not_found": 1
+  },
+  "checked": [
+    "12 pages and 404 regenerated from source",
+    "Internal links and asset paths",
+    "One H1, title, description per page",
+    "Image alt attributes and valid local SVGs",
+    "Unique IDs, ARIA targets and associated field labels",
+    "JavaScript syntax",
+    "Modeled-DOM interaction tests using actual app JavaScript",
+    "No fabricated prices, MOQ, delivery times, reviews or customer evidence",
+    "No form network calls, cookies, analytics or browser storage; CSP blocks connections and form actions",
+    "Reduced-motion source paths and responsive breakpoint rules",
+    "Long brief title wrapping fix",
+    "Decorative scroll-linked thread component: standalone source and lifecycle checks, static fallback and reduced motion"
+  ],
+  "browser_qa": {
+    "status": "blocked",
+    "observations": [
+      "Supported cloud browser could not load the existing private preview: gateway connection refused",
+      "Supported cloud browser could not reach local HTTP preview",
+      "Sandbox-preserving Chromium launch could not create sockets",
+      "One normal elevated sandbox-preserving launch failed in the execution wrapper before Chromium"
+    ],
+    "screenshots": "None; no genuine browser render available"
+  },
+  "not_verified": [
+    "Desktop/mobile visual render, overflow and layout in an actual browser",
+    "Native browser validation, focus visibility, assistive-technology announcements and download behavior",
+    "Browser console/network trace",
+    "Real form delivery, artwork handling, order/payment flows, backend privacy/security and spam controls",
+    "DNS, final contact details and public SEO",
+    "Actual scroll-linked SVG appearance in desktop/mobile browsers and native Webflow"
+  ],
+  "launch_clearance": false,
+  "modeled_tests": {
+    "application": {
+      "passed": 31,
+      "total": 31
+    },
+    "thread_motion": {
+      "passed": 16,
+      "total": 16
+    }
+  }
+}

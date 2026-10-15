@@ -1,0 +1,71 @@
+{
+  "engine": "Portable Node VM + source assertions; not browser rendering",
+  "passed": 16,
+  "total": 16,
+  "results": [
+    {
+      "name": "Normal initialization computes clamped progress",
+      "status": "pass"
+    },
+    {
+      "name": "Initially reduced motion stays static and avoids frames",
+      "status": "pass"
+    },
+    {
+      "name": "Preference toggle cancels frame and removes animated inline state",
+      "status": "pass"
+    },
+    {
+      "name": "Legacy media-query listener fallback",
+      "status": "pass"
+    },
+    {
+      "name": "Scroll and resize coalesce one RAF and use passive listeners",
+      "status": "pass"
+    },
+    {
+      "name": "IO excludes offscreen elements and includes entering elements",
+      "status": "pass"
+    },
+    {
+      "name": "Motion re-enable preserves observer offscreen exclusion",
+      "status": "pass"
+    },
+    {
+      "name": "Mixed reinitialization does not re-observe or redraw initialized elements",
+      "status": "pass"
+    },
+    {
+      "name": "No IntersectionObserver fallback still draws on scroll",
+      "status": "pass"
+    },
+    {
+      "name": "Pagehide cancels queued work and pageshow resumes",
+      "status": "pass"
+    },
+    {
+      "name": "Duplicate script initialization does not duplicate existing handlers",
+      "status": "pass"
+    },
+    {
+      "name": "DOMContentLoaded initialization and absent-component no-op",
+      "status": "pass"
+    },
+    {
+      "name": "CSS source has static, reduced-motion, mobile, and print fallbacks",
+      "status": "pass"
+    },
+    {
+      "name": "No network, timers, or persistent storage APIs",
+      "status": "pass"
+    },
+    {
+      "name": "Generated index.html SVG geometry, IDs, and source linkage",
+      "status": "pass"
+    },
+    {
+      "name": "Generated about/index.html SVG geometry, IDs, and source linkage",
+      "status": "pass"
+    }
+  ]
+}

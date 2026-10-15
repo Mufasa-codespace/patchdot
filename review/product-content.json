@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "embroidered",
+    "name": "Embroidered",
+    "desc": "Visible thread. Familiar texture.",
+    "intro": "Give your design a stitched finish with visible thread texture. Explore embroidered patches for your brand, team or business.",
+    "heading": "Let the stitching shape the design.",
+    "body": "The finished size, lettering and small details matter when artwork is translated into stitches. Include your intended dimensions and the item the patch will be used on.",
+    "consider": "Artwork with clear shapes, lettering and areas of color. Final suitability depends on size and detail.",
+    "question": "Will small lettering work?",
+    "answer": "Include the lettering and intended patch dimensions in your request. Suitability needs to be checked at the final size.",
+    "next": "woven",
+    "color": "#d0c3a1"
+  },
+  {
+    "slug": "woven",
+    "name": "Woven",
+    "desc": "A flatter surface. A finer feel.",
+    "intro": "Explore a flatter woven finish for your custom patch design. Start with your artwork and the finished size you have in mind.",
+    "heading": "Start with the details that matter.",
+    "body": "If your design includes small lettering or fine lines, highlight them in your request. The final result depends on the artwork, dimensions and production specification.",
+    "consider": "Designs where a flatter surface and fine-detail approach are part of the brief.",
+    "question": "How is woven different from embroidered?",
+    "answer": "Woven patches use interlaced threads to create the design and generally have a flatter surface. Embroidered patches show the texture of stitches over a base. Compare real examples at the intended size.",
+    "next": "embroidered",
+    "color": "#e9dfc9"
+  },
+  {
+    "slug": "pvc",
+    "name": "PVC",
+    "desc": "Molded form. Dimensional detail.",
+    "intro": "Explore molded PVC patches with a dimensional look. Start with your design, size and intended use.",
+    "heading": "Define the shape and the surface.",
+    "body": "Point out any raised areas or details that are important to your design. Include the item the patch will be attached to and your preferred attachment method, if known.",
+    "consider": "A dimensional surface, distinct outlines and raised areas that can be reviewed against your artwork.",
+    "question": "Can my design have raised detail?",
+    "answer": "Include a reference showing the effect you want. The achievable detail and construction need to be confirmed for your design.",
+    "next": "embroidered",
+    "color": "#3b4b3d"
+  },
+  {
+    "slug": "chenille",
+    "name": "Chenille",
+    "desc": "Soft texture. Bold character.",
+    "intro": "Explore the soft, textured look of chenille for bold lettering and patch designs. Start with your idea and the item it will be used on.",
+    "heading": "Make room for the texture.",
+    "body": "Include the finished size and the garment or accessory you have in mind. Clearly identify any lettering or detail that must stay readable in the finished patch.",
+    "consider": "Bold letters and shapes where the plush texture is a central part of the design.",
+    "question": "Can chenille include small text?",
+    "answer": "Fine details need to be reviewed against the intended size and construction. Share the full design and mark any details that cannot change.",
+    "next": "woven",
+    "color": "#B64B2B"
+  },
+  {
+    "slug": "leather",
+    "name": "Leather",
+    "desc": "A material-led finishing touch.",
+    "intro": "Explore leather patches for branded apparel and accessories. Start with your design, intended size and application.",
+    "heading": "Start with the material and finish.",
+    "body": "If you have a particular material, color or surface effect in mind, include a reference. Material composition and the available finish should be confirmed in the quote.",
+    "consider": "The look of the material, its color and the intended surface effect on apparel, bags or accessories.",
+    "question": "What material and finish can I choose?",
+    "answer": "Material composition, color, thickness and available finishes need confirmation for each project. This review site does not establish whether genuine leather, synthetic alternatives or both will be offered.",
+    "next": "chenille",
+    "color": "#af7951"
+  }
+]
